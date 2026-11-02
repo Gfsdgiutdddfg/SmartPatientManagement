@@ -1,0 +1,6 @@
+target/
+data/*.db
+uploads/**
+exports/**
+backups/**
+.DS_Store
